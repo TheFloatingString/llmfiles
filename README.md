@@ -2,6 +2,12 @@
 
 A collection of config files for Claude Code and related coding agents. 
 
+## Quickstart
+
+```bash
+wget https://raw.githubusercontent.com/TheFloatingString/llmfiles/refs/heads/main/PYTHON.md -o CLAUDE.md
+```
+
 ## Roadmap
 
 - Create a `.md` file for every programming language (or task) of interest

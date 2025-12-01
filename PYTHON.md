@@ -10,3 +10,9 @@
 # Coding Practices when Python Files are Modified
 - Always use `ruff format` to format files when you make changes, unless documentation or instructions specify otherwise
 - Always use `ruff check --fix` to lint and fix python files
+
+# Running Python Files
+- Use the following tool call for modal:
+```
+Bash(export PYTHONIOENCODING="utf-8"; uv run modal run modal_quickstart.py)
+```
